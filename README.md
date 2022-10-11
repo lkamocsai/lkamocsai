@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Laszlo Kamocsai
-- 👀 I’m interested in Volatility Modelling
+- 👀 I’m interested in Time Series Modelling
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: lkamocsai@student.elte.hu
